@@ -1,0 +1,23 @@
+{
+  "name": "bouquet",
+  "version": "1.0.0",
+  "description": "HTML/CSS/JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodluckTony/bouquet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodluckTony/bouquet/issues"
+  },
+  "homepage": "https://github.com/goodluckTony/bouquet#readme",
+  "dependencies": {
+    "firebase": "^9.11.0"
+  }
+}
