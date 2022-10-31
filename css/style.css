@@ -243,14 +243,16 @@ margin-left: 49px;
     height: 10px;
     background-color: #FFC2C7;
     border-radius: 50%;
+    z-index: 1;
 }
 
 .title-right-passive-circle-2 {
     margin-left: 7px;
-    width: 26px;
-    height: 26px;
+    width: 10px;
+    height: 10px;
     background-color: #FFC2C7;
     border-radius: 50%;
+    z-index: 1;
 }
 
 .title-right-passive-circle-3 {
@@ -259,6 +261,12 @@ margin-left: 49px;
     height: 10px;
     background-color: #FFC2C7;
     border-radius: 50%;
+z-index: 1;
+}
+
+.title-rpc-active {
+    width: 26px;
+    height: 26px;
 }
 
 .title-right-active {
@@ -266,16 +274,18 @@ margin-left: 49px;
     align-content: center;
     flex-wrap: wrap;
     border-left: 3px solid #A9BFE4;
+
     border-radius: 100%;
 width: 454px;
+height: 454px;
 padding-left: 67px;
 margin-left: -40px;
 z-index: -1;
-
 }
 
 .title-right-active-img {
 width: 270px;
+height: 270px;
 }
 
 /* .title-right-active-img {
