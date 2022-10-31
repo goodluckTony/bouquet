@@ -12,7 +12,7 @@ const titleImgSeletion2 = document.querySelector(".title-right-selective-img-2")
 titleImgSeletion2.addEventListener("click", () => {
 
 document.querySelector(".title-right-active-img").src = "../img/bouquet_2.png";
-document.querySelector("title-rpc-active").classList.remove("title-rpc-active");
+document.querySelector(".title-rpc-active").classList.remove("title-rpc-active");
 document.querySelector("#circle2").classList.add("title-rpc-active");
 });
 
